@@ -1,5 +1,9 @@
 # beeroclock
-sublime plugin
+
+Veis proudly presents yet another awesome release!
+
+
+sublime plugin (works on both 2 and 3! (wow))
 
 This gives you ability to check if its beer-o-clock.
 
