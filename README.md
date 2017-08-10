@@ -1,13 +1,14 @@
 # Beer-o-clock! Sublime Text plugin
 (works on both 2 and 3)
 
+ ```
  __      __  _     
  \ \    / / (_)    
   \ \  / /__ _ ___ 
    \ \/ / _ \ / __|
     \  /  __/ \__ \
      \/ \___|_|___/
-
+```
 And here Veis proudly presents yet another awesome release!
 
 
